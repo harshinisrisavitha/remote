@@ -1,0 +1,7 @@
+aruco_markers:
+  ros__parameters:
+    marker_size: 0.1
+    camera_frame: front_cam_center_optical_frame
+    image_topic: /front_cam/zed_node/rgb/image_rect_color
+    camera_info_topic: /front_cam/zed_node/rgb/camera_info
+    dictionary: DICT_4X4_100
