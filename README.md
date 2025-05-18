@@ -8,5 +8,10 @@
 
 ```sh
 ros2 launch aruco_markers aruco_launch.py
+
+```markdown
+```sh
+ros2 run rqt_image_view rqt_image_view
+
 ros2 run rqt_image_view rqt_image_view
 ros2 topic echo /aruco/markers
