@@ -1,5 +1,5 @@
 # aruco_markers
-'''sh
+```sh
 source install/setup.bash
 ros2 run aruco_markers aruco_markers --ros-args \
   -p marker_size:=0.1 \
