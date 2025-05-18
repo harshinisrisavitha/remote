@@ -6,7 +6,7 @@
   <description>A ros2 node for detecting aruco markers in camera images</description>
   <maintainer email="cs23b2055@iiitdm.ac.in">harshinisrisavitha</maintainer>
   <license>MIT</license>
-  <url type="website">https://github.com/harshinisrisavitha/aremote</url>
+  <url type="website">https://github.com/harshinisrisavitha/remote</url>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
