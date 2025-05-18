@@ -8,10 +8,5 @@
 
 ```sh
 ros2 launch aruco_markers aruco_launch.py
- 
-```sh
 ros2 run rqt_image_view rqt_image_view
-
-3.  **To get the pose data of the detected markers, echo the /aruco/markers topic:**
-```sh
 ros2 topic echo /aruco/markers
