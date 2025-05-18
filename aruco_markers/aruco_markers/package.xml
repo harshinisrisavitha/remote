@@ -4,9 +4,9 @@
   <name>aruco_markers</name>
   <version>0.0.2</version>
   <description>A ros2 node for detecting aruco markers in camera images</description>
-  <maintainer email="davewbrwn@gmail.com">David Brown</maintainer>
+  <maintainer email="cs23b2055@iiitdm.ac.in">harshinisrisavitha</maintainer>
   <license>MIT</license>
-  <url type="website">https://github.com/namo-robotics/aruco_markers</url>
+  <url type="website">https://github.com/harshinisrisavitha/aremote</url>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
