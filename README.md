@@ -17,4 +17,4 @@
    ros2 topic echo /aruco/markers
 
 
-//try.py is written by me (it works, but the output fluctuates)
+//try.py (it works, but the output fluctuates)
