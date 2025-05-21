@@ -16,4 +16,4 @@ dictionary = cv2.aruco.DICT_4X4_50
 
 ## **To run this package:**
 
-  ros2 run sruco_detect detect
+`ros2 run aruco_detect detect`
