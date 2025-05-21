@@ -5,7 +5,7 @@
 - Estimates the pose (rotation + translation) of each marker
 - Publishes the annotated image with axes and marker IDs
 
-  | Topic | Description |
+| Topic | Description |
 |-------|-------------|
 | `/front_cam/zed_node/rgb/image_rect_color` | Input image topic |
 | `/front_cam/zed_node/rgb/camera_info` | Intrinsic parameters |
@@ -15,4 +15,5 @@
 dictionary = cv2.aruco.DICT_4X4_50
 
 ## **To run this package:**
- 	`ros2 run sruco_detect detect`
+ 	``sh
+  ros2 run sruco_detect detect
