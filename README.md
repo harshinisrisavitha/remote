@@ -9,8 +9,7 @@
 |-------|-------------|
 | `/front_cam/zed_node/rgb/image_rect_color` | Input image topic |
 | `/front_cam/zed_node/rgb/camera_info` | Intrinsic parameters |
-| `/aruco_detections/image` | Annotated image (published) |
-| `/aruco_detections/poses` | Marker ID + pose (published) |
+| `/aruco/image_marked` | Annotated image (published) |
 
 dictionary = cv2.aruco.DICT_4X4_50
 
