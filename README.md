@@ -16,5 +16,3 @@
    ```sh
    ros2 topic echo /aruco/markers
 
-
-//try.py (it works, but the output fluctuates)
