@@ -1,4 +1,4 @@
-#Aruco Marker Detection using ROS 2 & OpenCV
+# Aruco Marker Detection using ROS 2 & OpenCV
 
 - Subscribes to rectified color image and camera info topics
 - Detects ArUco markers in real-time using OpenCV
@@ -14,5 +14,5 @@
 
 dictionary = cv2.aruco.DICT_4X4_50
 
-##**To run this package:**
+## **To run this package:**
  	`ros2 run sruco_detect detect`
