@@ -11,7 +11,7 @@ This is a centralized repository for all resources, documentation, and experienc
 This is the official GitHub repository for the ERC 2025 challenge, provided by the organizers.
 
 ### Husarion Workspace
-[https://github.com/mission-mangal/shunya_remote2025_ws.git]
+(https://github.com/mission-mangal/shunya_remote2025_ws.git)
 This repository functions as the main workspace for our team.
 
 ###  Connectivity Test
